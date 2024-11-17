@@ -1,9 +1,5 @@
 # Gemini Powered Bot
-![App's Demo](demo.png)
-<video width="600" controls>
-  <source src="demo.mkv" type="video/mkv">
-  App's Video Demo!
-</video>
+[Watch the App's Video Demo](https://raw.githubusercontent.com/AlexKalll/Gemini-Powered-GPT/master/demo.mkv)
 
 Welcome to the Gemini Powered Bot!👋 This application leverages Google's Generative AI to provide informative answers to your questions. Simply type your query, and the bot will generate a response based on the advanced capabilities of the Gemini model.
 
